@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDF Magic - Free PDF Tools
 
 A modern, feature-rich PDF manipulation website similar to "I Love PDF". Built with Next.js, React, TypeScript, and Tailwind CSS.
@@ -118,3 +119,7 @@ MIT License - feel free to use this project for personal or commercial purposes
 ## Contributing
 
 Contributions are welcome! Feel free to open issues and submit pull requests.
+=======
+# magicpdf
+website for pdf editing 
+>>>>>>> 20e5fbc38bc1ead5ab1baa1d8e43b9f3b3ff8abf
